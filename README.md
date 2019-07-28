@@ -3,4 +3,4 @@
 
 
 
-tis this Repo we can check how to recognition audio by Microphone.
+In this Repo we can check how to recognition audio by Microphone.
